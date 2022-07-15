@@ -1,0 +1,11 @@
+Transaksi,Merah,Putih,Biru,Orange,Hijau,Kuning
+1,Merah,Putih,Biru,,Hijau,Kuning
+2,,Putih,,Orange,,Kuning
+3,,Putih,Biru,,,Kuning
+4,Merah,,,Orange,,
+5,Merah,,Biru,,Hijau,Kuning
+6,,Putih,Biru,Orange,Hijau,Kuning
+7,Merah,,Biru,Orange,,
+8,,,,Orange,Hijau,Kuning
+9,Merah,Putih,Biru,,,
+10,,,Biru,,Hijau,Kuning
